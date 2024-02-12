@@ -16,4 +16,4 @@ Josefina Body Lotion is crafted with care, love, and the understanding that ever
 
 ## Getting Started
 
-To start exploring our collection and find your perfect lotion, visit our website at [Josefina Body Lotion](robertguzmanny.github.io/Project-2/). 
+To start exploring our collection and find your perfect lotion, visit our website at [robertguzmanny.github.io/Project-2/](#). 
